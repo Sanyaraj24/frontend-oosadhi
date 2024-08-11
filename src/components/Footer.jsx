@@ -64,7 +64,7 @@ function Footer() {
           </div>
           <h5 className="text-sm font-semibold">©2022 OOSADHI - A Natural Treatment Platform</h5>
         </div>
-      </div>
+      </div>~
     </div>
   );
 }
