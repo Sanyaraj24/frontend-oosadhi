@@ -1,4 +1,4 @@
-import React from 'react'
+
 import DietPlanSteps from './Home_components/DietPlanSteps'
 import Imageslider from './Home_components/Imageslider'
 import PersonalizedDietPlan from './Home_components/PersonalizedDietPlan'
