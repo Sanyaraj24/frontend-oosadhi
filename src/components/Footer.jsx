@@ -49,7 +49,7 @@ function Footer() {
               className="bg-[#252531] border-2 border-[#02AD4F] h-10 w-full px-4 pr-20 rounded-3xl focus:outline-none"
               placeholder="Enter your email"
             />
-            <button className="absolute top-0 right-0 h-10 w-12 rounded-3xl bg-[#02AD4F] text-white">Subscribe</button>
+            <button className="absolute top-0 right-0 h-10 w-fit px-2 rounded-3xl bg-[#02AD4F] text-white">Subscribe</button>
           </div>
         </div>
 
@@ -64,7 +64,7 @@ function Footer() {
           </div>
           <h5 className="text-sm font-semibold">©2022 OOSADHI - A Natural Treatment Platform</h5>
         </div>
-      </div>~
+      </div>
     </div>
   );
 }
